@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>http://13.201.236.191:3001/Dash/auth/resetPassword</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/Dash/auth/forget-password</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/Dash/auth/ragistration</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/Dash/auth/login</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/Dash/main/blogsection/bloglist</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/about</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/Dash/main/contactsection/contactus</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/contact</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/privacy-policy</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/service/company-service</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/service/gst-service</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/Dash/main/blogsection/blogcreate</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/blog</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/service/tax-advisory</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/terms-condition</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/thank-you</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/Dash/main/dashboard</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/service/valuation-service</loc><lastmod>2024-04-02T10:41:26.072Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://13.201.236.191:3001/blog/navigating-aoc-4-rectifying-the-missed-cash-flow-statement-attachment-a-step-by-step-guide</loc></url>
+<url><loc>http://13.201.236.191:3001/blog/paytm-payment-bank-faces-regulatory-heat:-understanding-the-rbi&apos;s-drastic-measures</loc></url>
+<url><loc>http://13.201.236.191:3001/blog/test</loc></url>
+<url><loc>http://13.201.236.191:3001/blog/test-1999</loc></url>
+<url><loc>http://13.201.236.191:3001/blog/nikit-kumawat</loc></url>
+</urlset>

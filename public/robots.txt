@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: http://13.201.236.191:3001/
+
+# Sitemaps
+Sitemap: http://13.201.236.191:3001/sitemap.xml
